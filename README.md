@@ -13,11 +13,6 @@ I **turn ideas into reality** by crafting sleek, high-performing websites and **
 
 ---
 
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QasimRokeeb&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QasimRokeeb&layout=compact&theme=radical)  
-
----
 
 ## 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://ng.linkedin.com/in/qasim-rokeeb-6087a7252)  
