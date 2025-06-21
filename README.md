@@ -30,6 +30,21 @@ I focus on clean code, intuitive UI, and seamless performance—because great we
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qasim-Rokeeb&show_icons=true&theme=radical&hide_title=false&count_private=true" alt="Qasim Rokeeb's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Qasim-Rokeeb&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-Rokeeb&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
 ## 🌐 Let’s Connect  
 Wanna chat Web3, SEO, books, or ideas?
 
